@@ -1,0 +1,35 @@
+h1{
+    font-size: 100px;
+    background:purple;
+    text-align: center;
+}
+
+body{
+    background:black;
+    color: white;
+
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+
+}
+
+h5{
+    font-size: 30px;
+    text-align: center;
+
+}
+
+a{
+    font-size: 50px;
+    color: cyan;
+    text-align: center;
+
+}
+
+li{
+    font-size: 25px;
+
+}
